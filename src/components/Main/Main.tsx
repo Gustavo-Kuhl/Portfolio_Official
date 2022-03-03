@@ -17,7 +17,7 @@ export const Main: React.FC = () => {
           I’m a front-end developer specializing in building (and occasionally
           designing) exceptional digital experiences.
         </p>
-        <Button href="../assets/resume-Gustavo_Kuhl(EN).pdf" download="resume-Gustavo_Kuhl(EN).pdf">
+        <Button href="../../assets/resume-Gustavo_Kuhl(EN).pdf" download="resume-Gustavo_Kuhl(EN).pdf">
          Resume
         </Button>
       </Profile>
