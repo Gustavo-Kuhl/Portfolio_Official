@@ -19,6 +19,7 @@ export const Footer: React.FC = () => {
   return (
     <Container>
       <h4>Developed by Gustavo Silva Kuhl de Oliveira</h4>
+      <p>PIX: gustavo.dev92@gmail.com</p>
       ©All rights reserved
     </Container>
   );
