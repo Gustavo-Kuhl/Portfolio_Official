@@ -11,7 +11,7 @@ export const Projects: React.FC = () => {
       <List>
         <ListItem side="right">
           <a href="https://gustavokuhl-disney-plus-clone.netlify.app/" target="_blank">
-            <img src={disney} alt="" />
+            <img src={disney} alt="disney plus project screenshot" />
           </a>
           <div className="box">
             <span>Featured Project</span>

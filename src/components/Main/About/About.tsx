@@ -35,43 +35,43 @@ export const About: React.FC = () => {
       <ul className="techs-list">
         <li>
           JAVASCRIPT
-          <img src={javascript} alt="" />
+          <img src={javascript} alt="javascript logo" />
         </li>
         <li>
           TYPESCRIPT
-          <img src={typescript} alt="" />
+          <img src={typescript} alt="typescript logo" />
         </li>
         <li>
           GIT
-          <img src={git} alt="" />
+          <img src={git} alt="git logo" />
         </li>
         <li>
           HTML
-          <img src={html} alt="" />
+          <img src={html} alt="html logo" />
         </li>
         <li>
           CSS
-          <img src={css} alt="" />
+          <img src={css} alt="css logo" />
         </li>
         <li>
           REACT.JS
-          <img src={react} alt="" />
+          <img src={react} alt="react.js logo" />
         </li>
         <li>
           STYLED-COMPONENTS
-          <img src={styledComponents} alt="" />
+          <img src={styledComponents} alt="styled components logo" />
         </li>
         <li>
           FIREBASE
-          <img src={firebase} alt="" />
+          <img src={firebase} alt="firebase logo" />
         </li>
         <li>
           MONGODB
-          <img src={mongodb} alt="" />
+          <img src={mongodb} alt="mongodb logo" />
         </li>
         <li>
           NODE.JS
-          <img src={node} alt="" />
+          <img src={node} alt="node.js logo" />
         </li>
       </ul>
     </Container>
