@@ -10,7 +10,7 @@ export const Projects: React.FC = () => {
       <H2>Projects</H2>
       <List>
         <ListItem side="right">
-          <a href="" target="_blank">
+          <a href="https://gustavokuhl-disney-plus-clone.netlify.app/" target="_blank">
             <img src={disney} alt="" />
           </a>
           <div className="box">
@@ -38,7 +38,10 @@ export const Projects: React.FC = () => {
           </div>
         </ListItem>
         <ListItem side="left">
-          <a href="https://gustavokuhl-cryptoconverter.netlify.app/" target="_blank">
+          <a
+            href="https://gustavokuhl-cryptoconverter.netlify.app/"
+            target="_blank"
+          >
             <img src={crypto} alt="crypto converter screenshot" />
           </a>
           <div className="box">
